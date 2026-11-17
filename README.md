@@ -13,6 +13,7 @@ My main technology stack includes **.NET, C#, ASP.NET Core, React, Next.js, and 
 - .NET / ASP.NET Core
 - REST APIs
 - Entity Framework Core
+- Dapper
 
 **Frontend**
 - React
@@ -36,7 +37,6 @@ My main technology stack includes **.NET, C#, ASP.NET Core, React, Next.js, and 
 - Git & GitHub
 - GitHub Actions
 - Redis
-- Kafka
 
 ## 🚀 What I'm Working On
 
